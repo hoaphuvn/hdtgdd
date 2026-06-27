@@ -1,0 +1,59 @@
+# $Id: $ generated with make-mac-prefixes.pl
+# Original data comes from http://standards.ieee.org/regauth/oui/oui.txt
+# These values are known as Organizationally Unique Identifiers (OUIs)
+# See http://standards.ieee.org/faqs/OUI.html
+# We have added a few unregistered OUIs at the end.
+006003 Scale_Label
+006059 Technical Communications
+FEBD6E Scale_Label
+885BDD AP_Aerohive130
+D854A2 AP_Aerohive230
+0418D6 AP_Unifi
+24A43C AP_Unifi
+DC9FDB AP_Unifi
+44D9E7 AP_Unifi
+5AE3AB AP_Unifi
+CC88C7 AP_Aruba
+A85BF7 AP_Aruba
+B01F8C AP_Aruba
+CCD083 AP_Aruba
+441244 AP_Aruba
+6CC49F AP_Aruba
+7C573C AP_Aruba
+482F6B AP_Aruba
+FC7FF1 AP_Aruba
+1097BD IOT_SpeakerCtrl
+E0E2E6 IOT_SpeakerCtrl
+30C6F7 IOT_SpeakerCtrl
+244CAB IOT_SpeakerCtrl
+349454 IOT_SpeakerCtrl
+782184 IOT_SpeakerCtrl
+34865D IOT_SpeakerCtrl
+7C87CE IOT_SpeakerCtrl
+485519 IOT_SpeakerCtrl
+6C2B59 Laptop
+00E04C Laptop
+68F728 Laptop
+9457A5 Laptop
+54E1AD Laptop
+9829A6 Laptop
+000EC6 Laptop
+A08CFD Laptop
+FC3FDB Laptop
+98E7F4 Laptop
+30E171 Laptop
+089798 Laptop
+C85B76 Laptop
+E4A8DF Laptop
+00EA4C Laptop
+1C697A Laptop
+C8D3FF Laptop
+24FBE3 Printer_Brother
+402A8F DS708_LAN
+94DDF8 Printer_Brother
+A8A092 PC_SingPC
+C4AAC4 DVR_DAHUA_IP
+7C7B68 Modem_iGate
+E02EFE DVR_DAHUA_IP
+F8CE07 Camera_Dahua_IP
+48210B PC_Asus
