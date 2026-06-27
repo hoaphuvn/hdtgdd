@@ -10444,7 +10444,7 @@ CCF0FD China Mobile (Hangzhou) Information Technology
 18D717 Guangdong Oppo Mobile Telecommunications
 0C9A42 Fn-link Technology Limited
 604BAA Magic Leap
-54812D PAX Computer Technology(Shenzhen)
+54812D PAX_Technology(Shenzhen)
 30A1FA Huawei Technologies
 88108F Huawei Technologies
 0C5331 ETH Zurich
