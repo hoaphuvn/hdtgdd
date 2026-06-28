@@ -9899,7 +9899,7 @@ E05163 Arcadyan
 7C3866 Texas Instruments
 50F14A Texas Instruments
 9C1D58 Texas Instruments
-500FF5 Tenda Technology,Ltd.Dongguan branch
+500FF5 Tenda_Technology,Ltd.Dongguan
 F0272D Amazon Technologies
 74C246 Amazon Technologies
 F4C4D6 Shenzhen Xinfa Electronic
