@@ -360,7 +360,7 @@ D48F33 Microsoft
 70AF25 Nishiyama Industry
 B47C29 Shenzhen Guzidi Technology
 2C1A31 Electronics Company Limited
-60C1CB Fujian Great Power PLC Equipment
+60C1CB Fujian_GreatPowerPLC Equipment
 686E48 Prophet Electronic Technology
 30F7D7 Thread Technology
 3808FD Silca Spa
@@ -625,7 +625,7 @@ F82EDB RTW GmbH & KG
 F02329 Showa Denki
 6499A0 AG Elektronik AB
 A80180 Imago Technologies Gmbh
-044CEF Fujian Sanao Technology
+044CEF Fujian_SanaoTechnology
 DC1DD4 Microstep-MIS spol. s r.o.
 149448 BLU Castle
 40516C Grandex International
@@ -888,7 +888,7 @@ DC2E6A HCT.
 1897FF TechFaith Wireless Technology Limited
 8C8E76 taskit GmbH
 B4D8DE iota Computing
-54CDA7 Fujian Shenzhou Electronic
+54CDA7 Fujian_ShenzhouElectronic
 1000FD LaonPeople
 603553 Buwon Technology
 B89BC9 SMC Networks
@@ -1152,7 +1152,7 @@ B0E39D CAT System
 78A6BD Daeyeon Control&instrument
 481249 Luxcom Technologies
 B43DB2 Degreane Horizon
-C4823F Fujian Newland Auto-ID Tech.
+C4823F Fujian_NewlandAuto-ID Tech.
 F4C795 WEY Elektronik AG
 087695 Auto Industrial
 ACCE8F HWA YAO Technologies
@@ -1770,7 +1770,7 @@ A8CE90 CVC
 001AC1 3Com
 001AB0 Signal Networks Pvt.,
 001AB5 Home Network System
-001AA9 Fujian Star-net Communication
+001AA9 Fujian_Star-netCommunication
 00183C Encore Software Limited
 001841 High Tech Computer
 001843 Dawevision
@@ -1828,7 +1828,7 @@ A8CE90 CVC
 001856 EyeFi
 001848 Vecima Networks
 001945 RF COncepts
-00194C Fujian Stelcom information & Technology
+00194C Fujian_Stelcom information & Technology
 001940 Rackable Systems
 001934 Trendon Touch Technology
 001939 Gigamips
@@ -2778,7 +2778,7 @@ A8CE90 CVC
 000179 Wireless Technology
 000185 Hitachi Aloka Medical
 00018C Mega Vision
-000192 Texas Digital Systems
+000192 Texas_Digital Systems
 00019E ESS Technology
 001095 Thomson
 00025A Catena Networks
@@ -3919,31 +3919,31 @@ C88D83 Huawei_Technologies
 00562B Cisco_Systems
 24F57E HWH
 943DC9 Asahi Net
-080028 Texas Instruments
-0012D2 Texas Instruments
-D494A1 Texas Instruments
-78C5E5 Texas Instruments
-847E40 Texas Instruments
-001832 Texas Instruments
-90D7EB Texas Instruments
-BC0DA5 Texas Instruments
-7C8EE4 Texas Instruments
-D8543A Texas Instruments
-884AEA Texas Instruments
-B09122 Texas Instruments
-209148 Texas Instruments
-A0F6FD Texas Instruments
-D4F513 Texas Instruments
-0017EC Texas Instruments
-0017E5 Texas Instruments
-C83E99 Texas Instruments
-8C8B83 Texas Instruments
-D0B5C2 Texas Instruments
-84EB18 Texas Instruments
-6CECEB Texas Instruments
-985DAD Texas Instruments
-E8EB11 Texas Instruments
-D43639 Texas Instruments
+080028 Texas_Instruments
+0012D2 Texas_Instruments
+D494A1 Texas_Instruments
+78C5E5 Texas_Instruments
+847E40 Texas_Instruments
+001832 Texas_Instruments
+90D7EB Texas_Instruments
+BC0DA5 Texas_Instruments
+7C8EE4 Texas_Instruments
+D8543A Texas_Instruments
+884AEA Texas_Instruments
+B09122 Texas_Instruments
+209148 Texas_Instruments
+A0F6FD Texas_Instruments
+D4F513 Texas_Instruments
+0017EC Texas_Instruments
+0017E5 Texas_Instruments
+C83E99 Texas_Instruments
+8C8B83 Texas_Instruments
+D0B5C2 Texas_Instruments
+84EB18 Texas_Instruments
+6CECEB Texas_Instruments
+985DAD Texas_Instruments
+E8EB11 Texas_Instruments
+D43639 Texas_Instruments
 A043DB Sitael
 E4BEED Netcore Technology
 84EF18 Intel_Corporate
@@ -4212,7 +4212,7 @@ A8D579 Beijing Chushang Science and Technology
 D860B3 Guangdong_Global Electronic TechnologyLTD
 3C9509 Liteon Technology
 44B412 Sius AG
-3CA308 Texas Instruments
+3CA308 Texas_Instruments
 60D7E3 Ieee Registration Authority
 00F82C Cisco_Systems
 00C1B1 Cisco_Systems
@@ -4287,15 +4287,15 @@ F88A3C Ieee Registration Authority
 58C583 Itel Mobile Limited
 E86D65 Audio Mobil Elektronik Gmbh
 00016D CarrierComm
-F0B052 Ruckus Wireless
-84183A Ruckus Wireless
-6CAAB3 Ruckus Wireless
-C4017C Ruckus Wireless
+F0B052 Ruckus_Wireless
+84183A Ruckus_Wireless
+6CAAB3 Ruckus_Wireless
+C4017C Ruckus_Wireless
 70DEF9 FAI WAH International (hong Kong) Limited
-001F41 Ruckus Wireless
-C08ADE Ruckus Wireless
-50A733 Ruckus Wireless
-24C9A1 Ruckus Wireless
+001F41 Ruckus_Wireless
+C08ADE Ruckus_Wireless
+50A733 Ruckus_Wireless
+24C9A1 Ruckus_Wireless
 245880 Vizeo
 7CBACC Ieee Registration Authority
 000726 Shenzhen Gongjin Electronics
@@ -4309,7 +4309,7 @@ F83441 Intel_Corporate
 044F4C Huawei_Technologies
 1C151F Huawei_Technologies
 DCEB53 Wuhan QianXiao Elecronic Technology
-94E36D Texas Instruments
+94E36D Texas_Instruments
 74819A PT. Hartono Istana Teknologi
 0835B2 CoreEdge Networks
 6C38A1 Ubee Interactive, Limited
@@ -4364,9 +4364,9 @@ DCF090 Nubia Technology
 DC6AEA Infinix mobility limited
 8CE38E Toshiba Memory
 74EAC8 New H3C Technologies
-A434F1 Texas Instruments
-C4F312 Texas Instruments
-44EAD8 Texas Instruments
+A434F1 Texas_Instruments
+C4F312 Texas_Instruments
+44EAD8 Texas_Instruments
 8C5F48 Continental Intelligent Transportation Systems
 3890A5 Cisco_Systems
 4C1365 Emplus Technologies
@@ -4428,8 +4428,8 @@ E892A4 LG Electronics (Mobile Communications)
 700514 LG Electronics (Mobile Communications)
 88C9D0 LG Electronics (Mobile Communications)
 2C598A LG Electronics (Mobile Communications)
-547DCD Texas Instruments
-1CDF52 Texas Instruments
+547DCD Texas_Instruments
+1CDF52 Texas_Instruments
 803BF6 Look Easy International Limited
 F417B8 AirTies Wireless Networks
 5CAD76 Shenzhen TCL New Technology
@@ -4455,7 +4455,7 @@ B45253 Seagate Technology
 88D171 Beghelli S.P.A
 74EACB New H3C Technologies
 D8B122 Juniper Networks
-F045DA Texas Instruments
+F045DA Texas_Instruments
 A43E51 Anov France
 D88466 Extreme Networks
 588D64 Xi'an Clevbee Technology
@@ -4503,8 +4503,8 @@ D4E6B7 Samsung_Electronics
 689861 Beacon
 1CA0B8 Hon Hai Precision Ind.
 3C479B Theissen Training Systems
-C464E3 Texas Instruments
-F4844C Texas Instruments
+C464E3 Texas_Instruments
+F4844C Texas_Instruments
 10A4B9 Baidu Online Network Technology (Beijing)
 1CB044 Askey Computer
 900372 Longnan Junya Digital Technology
@@ -4780,7 +4780,7 @@ F4C7C8 Kelvin
 6845F1 Toshiba Client Solutions
 84DB2F Sierra Wireless
 00A0D5 Sierra Wireless
-28EC9A Texas Instruments
+28EC9A Texas_Instruments
 70B317 Cisco_Systems
 94E0D6 China Dragon Technology Limited
 CC355A SecuGen
@@ -4947,7 +4947,7 @@ D8912A Zyxel Communications
 C4FEE2 Amiccom Electronics
 B44BD6 Ieee Registration Authority
 486834 Silicon Motion
-EC58EA Ruckus Wireless
+EC58EA Ruckus_Wireless
 745933 Danal Entertainment
 009D6B Murata Manufacturing
 B0B867 Hewlett_Packard Enterprise
@@ -5160,7 +5160,7 @@ E8018D Fiberhome Telecommunication Technologies
 6C23CB Wattty
 00122A VTech Telecommunications
 C468D0 VTech Telecommunications
-5051A9 Texas Instruments
+5051A9 Texas_Instruments
 981E19 Sagemcom Broadband SAS
 C4C138 OWLink Technology
 18F18E ChipER Technology
@@ -5191,7 +5191,7 @@ ACA46E Shenzhen Gongjin Electronics
 3050FD Skyworth Digital Technology(Shenzhen)
 80D04A Technicolor CH USA
 4C1744 Amazon Technologies
-4C9157 Fujian Landi Commercial Equipment
+4C9157 POS_CẢM_ỨNG
 501395 SichuanAI-LinkTechnologyCo.
 88DA33 Beijing Xiaoyuer Network Technology
 5C1CB9 vivo Mobile Communication
@@ -6173,7 +6173,7 @@ C43C3C Cybelec SA
 00D632 GE Energy
 C40ACB Cisco_Systems
 7463DF VTS GmbH
-3828EA Fujian Netcom Technology
+3828EA Fujian_NetcomTechnology
 2CEE26 Petroleum Geo-Services
 DC3E51 Solberg & Andersen AS
 D8B90E Triple Domain Vision
@@ -6225,7 +6225,7 @@ B0BF99 Wizitdongdo
 1045BE Norphonic AS
 A0E295 DAT System
 40F14C ISE Europe Sprl
-98293F Fujian Start Computer Equipment
+98293F Fujian_StartComputer Equipment
 70D4F2 RIM
 9067F3 Alcatel Lucent
 64D912 Solidica
@@ -6471,7 +6471,7 @@ F0EC39 Essec
 181714 Daewoois
 80B289 Forworld Electronics
 14A62C S.M. Dezac
-A8F470 Fujian Newland Communication Science Technologies
+A8F470 Fujian_NewlandCommunication Science Technologies
 DC1D9F U & B tech
 081651 Shenzhen SEA Star Technology
 DC49C9 Casco Signal
@@ -7460,7 +7460,7 @@ D0D286 Beckman Coulter K.K.
 0011A8 Quest Technologies
 0011A7 Infilco Degremont
 001250 Tokyo Aircaft Instrument
-00124B Texas Instruments
+00124B Texas_Instruments
 001244 Cisco_Systems
 001238 SetaBox Technology
 00123D GES
@@ -8201,7 +8201,7 @@ D0D286 Beckman Coulter K.K.
 00D00A Lanaccess Telecom
 00D04A Presence Technology Gmbh
 00D0C3 Vivid Technology PTE
-00D0F8 Fujian Star Terminal
+00D0F8 Fujian_StarTerminal
 00D003 Comda Enterprises
 00D029 Wakefern Food
 00D0F5 Orange Micro
@@ -8591,7 +8591,7 @@ D0D286 Beckman Coulter K.K.
 00A0E5 NHC Communications
 00A0D3 Instem Computer Systems
 00A0BA Patton Electronics
-00A0B4 Texas Microsystems
+00A0B4 Texas_Microsystems
 00A0AF WMS Industries
 00A0FE Boston Technology
 00202F Zeta Communications
@@ -8885,7 +8885,7 @@ D07E35 Intel_Corporate
 0026C7 Intel_Corporate
 8086F2 Intel_Corporate
 78FF57 Intel_Corporate
-20934D Fujian Star-net Communication
+20934D Fujian_Star-netCommunication
 00AA00 Intel
 605BB4 AzureWave Technology
 9C0E4A Shenzhen Vastking Electronic
@@ -9169,31 +9169,31 @@ C81FBE Huawei_Technologies
 B80018 Htel
 0081C4 Cisco_Systems
 E8FD90 Turbostor
-0017EA Texas Instruments
-0017E3 Texas Instruments
-001834 Texas Instruments
-00182F Texas Instruments
-78DEE4 Texas Instruments
-B8FFFE Texas Instruments
-E0D7BA Texas Instruments
-405FC2 Texas Instruments
-8030DC Texas Instruments
-CC78AB Texas Instruments
-A4D578 Texas Instruments
-544A16 Texas Instruments
-D8DDFD Texas Instruments
-20CD39 Texas Instruments
-987BF3 Texas Instruments
-247189 Texas Instruments
-EC1127 Texas Instruments
-F0C77F Texas Instruments
-F45EAB Texas Instruments
-001783 Texas Instruments
-A81B6A Texas Instruments
-9884E3 Texas Instruments
-38D269 Texas Instruments
-C8FD19 Texas Instruments
-508CB1 Texas Instruments
+0017EA Texas_Instruments
+0017E3 Texas_Instruments
+001834 Texas_Instruments
+00182F Texas_Instruments
+78DEE4 Texas_Instruments
+B8FFFE Texas_Instruments
+E0D7BA Texas_Instruments
+405FC2 Texas_Instruments
+8030DC Texas_Instruments
+CC78AB Texas_Instruments
+A4D578 Texas_Instruments
+544A16 Texas_Instruments
+D8DDFD Texas_Instruments
+20CD39 Texas_Instruments
+987BF3 Texas_Instruments
+247189 Texas_Instruments
+EC1127 Texas_Instruments
+F0C77F Texas_Instruments
+F45EAB Texas_Instruments
+001783 Texas_Instruments
+A81B6A Texas_Instruments
+9884E3 Texas_Instruments
+38D269 Texas_Instruments
+C8FD19 Texas_Instruments
+508CB1 Texas_Instruments
 04BBF9 Pavilion Data Systems
 B0F893 Shanghai Mxchip Information Technology
 D49B5C Chongqing Miedu Technology
@@ -9515,7 +9515,7 @@ EC43F6 Zyxel Communications
 FCF528 Zyxel Communications
 0019CB Zyxel Communications
 603197 Zyxel Communications
-34FA9F Ruckus Wireless
+34FA9F Ruckus_Wireless
 506F98 Sehaj Synergy Technologies Private Limited
 F065C2 Yanfeng Visteon Electronics Technology (Shanghai)
 70B7E2 Jiangsu Miter Technology
@@ -9532,7 +9532,7 @@ F065C2 Yanfeng Visteon Electronics Technology (Shanghai)
 747D24 Phicomm (Shanghai)
 5C81A7 Network Devices
 808DB7 Hewlett_Packard Enterprise
-10CEA9 Texas Instruments
+10CEA9 Texas_Instruments
 F8B568 Ieee Registration Authority
 14444A Apollo Seiko
 5C0C0E Guizhou Huaxintong Semiconductor Technology
@@ -9608,9 +9608,9 @@ E0E62E TCT mobile
 E4C483 Guangdong_Oppo Mobile Telecommunications
 30FD38 Google
 18502A Soarnex
-304511 Texas Instruments
-3403DE Texas Instruments
-F4E11E Texas Instruments
+304511 Texas_Instruments
+3403DE Texas_Instruments
+F4E11E Texas_Instruments
 10E7C6 Hewlett_Packard
 20F543 Hui Zhou Gaoshengda Technology
 1C1EE3 Hui Zhou Gaoshengda Technology
@@ -9676,7 +9676,7 @@ A0A3B8 Wiscloud
 7485C4 New H3C Technologies
 349342 TTE
 48E695 Insigma
-B479C8 Ruckus Wireless
+B479C8 Ruckus_Wireless
 F80DF1 Sontex SA
 9C8CD8 Hewlett_Packard Enterprise
 88D211 Eko Devices
@@ -9809,7 +9809,7 @@ ECADE0 D-Link International
 F0B968 Itel Mobile Limited
 988B0A Hangzhou Hikvision Digital Technology
 1CBFCE Shenzhen Century Xinyang Technology
-F83002 Texas Instruments
+F83002 Texas_Instruments
 B02A1F Wingtech Group (HongKongLimited
 1CB3E9 Shenzhen Zhongke United Communication Technology
 34E1D1 Ieee Registration Authority
@@ -9822,7 +9822,7 @@ A8DB03 Samsung_Electro-mechanics(thailand)
 109E3A Zhejiang Tmall Technology
 CC37AB Edgecore Networks
 2479F3 Guangdong_Oppo Mobile Telecommunications
-205869 Ruckus Wireless
+205869 Ruckus_Wireless
 60D2DD Shenzhen Baitong Putian Technology
 FCAB90 Huawei_Technologies
 20DA22 Huawei_Technologies
@@ -9896,9 +9896,9 @@ F44C7F Huawei_Technologies
 E05163 Arcadyan
 00A06F Color Sentinel Systems
 0C5F35 Niagara Video
-7C3866 Texas Instruments
-50F14A Texas Instruments
-9C1D58 Texas Instruments
+7C3866 Texas_Instruments
+50F14A Texas_Instruments
+9C1D58 Texas_Instruments
 500FF5 Tenda_Technology,Ltd.Dongguan
 F0272D Amazon Technologies
 74C246 Amazon Technologies
@@ -10005,19 +10005,19 @@ E0CBBC Cisco_Meraki
 00D01F Senetas
 A40450 nFore Technology
 4CB008 Shenzhen Gwelltimes Technology
-2CE6CC Ruckus Wireless
-8C0C90 Ruckus Wireless
+2CE6CC Ruckus_Wireless
+8C0C90 Ruckus_Wireless
 842096 Shenzhen Rf-link Technology
-589396 Ruckus Wireless
-74911A Ruckus Wireless
-00227F Ruckus Wireless
-002482 Ruckus Wireless
-58B633 Ruckus Wireless
-D4684D Ruckus Wireless
-F03E90 Ruckus Wireless
-EC8CA2 Ruckus Wireless
-3087D9 Ruckus Wireless
-24792A Ruckus Wireless
+589396 Ruckus_Wireless
+74911A Ruckus_Wireless
+00227F Ruckus_Wireless
+002482 Ruckus_Wireless
+58B633 Ruckus_Wireless
+D4684D Ruckus_Wireless
+F03E90 Ruckus_Wireless
+EC8CA2 Ruckus_Wireless
+3087D9 Ruckus_Wireless
+24792A Ruckus_Wireless
 30F77F S Mobile Devices Limited
 5C5181 Samsung_Electronics
 389AF6 Samsung_Electronics
@@ -10093,7 +10093,7 @@ ECEBB8 Hewlett_Packard Enterprise
 D89EF3 Dell
 C0742B Shenzhen Xunlong Software,limited
 D8AFF1 Panasonic Appliances Company
-7086C1 Texas Instruments
+7086C1 Texas_Instruments
 A072E4 NJ System
 A8E824 Inim Electronics S.r.l.
 6CB749 Huawei_Technologies
@@ -10104,7 +10104,7 @@ A0FE61 Vivint Wireless
 B4CD27 Huawei_Technologies
 3CCD5D Huawei_Technologies
 346B46 Sagemcom Broadband SAS
-D4C19E Ruckus Wireless
+D4C19E Ruckus_Wireless
 08DFCB Systrome Networks
 9CA615 Tp-link Technologies
 28AC9E Cisco_Systems
@@ -10357,7 +10357,7 @@ A82BB9 Samsung_Electronics
 14579F Huawei_Technologies
 144F8A Intel_Corporate
 882D53 Baidu Online Network Technology (Beijing)
-A4DA32 Texas Instruments
+A4DA32 Texas_Instruments
 8C14B4 zte
 3C9872 Sercomm
 8C04FF Technicolor CH USA
@@ -10410,7 +10410,7 @@ FC4596 Compal Information (kunshan)
 5803FB Hangzhou Hikvision Digital Technology
 58FDBE Shenzhen Taikaida Technology
 F8CC6E Depo Electronics
-806FB0 Texas Instruments
+806FB0 Texas_Instruments
 14942F Usys
 B869F4 Routerboard.com
 342EB6 Huawei_Technologies
@@ -10452,7 +10452,7 @@ F4631F Huawei_Technologies
 24FB65 Huawei_Technologies
 EC84B4 CIG Shanghai
 ECB313 Shenzhen Gongjin Electronics
-8CFE74 Ruckus Wireless
+8CFE74 Ruckus_Wireless
 846A66 Sumitomo Kizai
 DC3757 Integrated Device Technology (Malaysia) Sdn. Bhd.
 009004 3com Europe
@@ -10478,7 +10478,7 @@ EC79F2 Startel
 4C1265 Arris_Group
 00907F WatchGuard Technologies
 F0B014 AVM Audiovisuelles Marketing und Computersysteme GmbH
-A81087 Texas Instruments
+A81087 Texas_Instruments
 AC8674 Open Mesh
 18E829 Ubiquiti Networks
 181DEA Intel_Corporate
@@ -10564,7 +10564,7 @@ CC3ADF Private
 F88E85 Comtrend
 F43328 Cimcon Lighting
 3CB74B Technicolor CH USA
-1442FC Texas Instruments
+1442FC Texas_Instruments
 5C5AC7 Cisco_Systems
 04D590 Fortinet
 B0B5E8 Ruroc
@@ -11718,7 +11718,7 @@ E0589E Laerdal Medical
 44D63D Talari Networks
 58FD20 Bravida Sakerhet AB
 9835B8 Assembled Products
-240B2A Viettel Group
+240B2A Viettel_Group
 68E41F Unglaube Identech GmbH
 84F64C Cross Point BV
 90513F Elettronica Santerno SpA
@@ -14113,7 +14113,7 @@ A4526F ADB Broadband Italia
 ECF00E AboCom
 3039F2 ADB Broadband Italia
 000827 ADB Broadband Italia
-54F6C5 Fujian Star-net Communication
+54F6C5 Fujian_Star-netCommunication
 5C338E Alpha Networks
 001AEB Allied Telesis R&D Center K.K.
 A43111 ZIV
@@ -14482,30 +14482,30 @@ D84710 Sichuan Changhong Electric
 B4A984 Symantec
 34074F AccelStor
 58E876 Ieee Registration Authority
-3C2DB7 Texas Instruments
-0023D4 Texas Instruments
-001831 Texas Instruments
-D08CB5 Texas Instruments
-B4EED4 Texas Instruments
-CC8CE3 Texas Instruments
-102EAF Texas Instruments
-647BD4 Texas Instruments
-0017E8 Texas Instruments
-0017E6 Texas Instruments
-B0B448 Texas Instruments
-505663 Texas Instruments
-3C7DB1 Texas Instruments
-40984E Texas Instruments
-0012D1 Texas Instruments
-88C255 Texas Instruments
-E0C79D Texas Instruments
-9059AF Texas Instruments
-B4994C Texas Instruments
-70FF76 Texas Instruments
-507224 Texas Instruments
-506583 Texas Instruments
+3C2DB7 Texas_Instruments
+0023D4 Texas_Instruments
+001831 Texas_Instruments
+D08CB5 Texas_Instruments
+B4EED4 Texas_Instruments
+CC8CE3 Texas_Instruments
+102EAF Texas_Instruments
+647BD4 Texas_Instruments
+0017E8 Texas_Instruments
+0017E6 Texas_Instruments
+B0B448 Texas_Instruments
+505663 Texas_Instruments
+3C7DB1 Texas_Instruments
+40984E Texas_Instruments
+0012D1 Texas_Instruments
+88C255 Texas_Instruments
+E0C79D Texas_Instruments
+9059AF Texas_Instruments
+B4994C Texas_Instruments
+70FF76 Texas_Instruments
+507224 Texas_Instruments
+506583 Texas_Instruments
 BC282C e-Smart Systems Pvt.
-546C0E Texas Instruments
+546C0E Texas_Instruments
 04FEA1 Fihonest communication
 2CAC44 Conextop
 A8BD27 Hewlett_Packard Enterprise
@@ -14726,7 +14726,7 @@ BC3F8F Huawei_Technologies
 0030C5 Cadence Design Systems
 54E3F6 Alcatel-Lucent
 B0C205 Bionime
-0C61CF Texas Instruments
+0C61CF Texas_Instruments
 7C2664 Sagemcom Broadband SAS
 E47DEB Shanghai Notion Information Technology
 A002DC Amazon Technologies
@@ -14775,7 +14775,7 @@ DC6DCD Guangdong_Oppo Mobile Telecommunications
 143F27 Noccela Oy
 64351C E-con Systems India PVT
 0CB912 Jm-data Gmbh
-1893D7 Texas Instruments
+1893D7 Texas_Instruments
 EC363F Markov
 54FA3E Samsung_Electronics
 0C8910 Samsung_Electronics
@@ -14846,10 +14846,10 @@ B0DFC1 Tenda_Technology,Ltd.Dongguan branch
 706E6D Cisco_Systems
 001DCC Ayon Cyber Security
 FC2F6B Everspin Technologies
-2CC5D3 Ruckus Wireless
-F8E71E Ruckus Wireless
-1CB9C4 Ruckus Wireless
-C0C520 Ruckus Wireless
+2CC5D3 Ruckus_Wireless
+F8E71E Ruckus_Wireless
+1CB9C4 Ruckus_Wireless
+C0C520 Ruckus_Wireless
 B4C170 Yi chip Microelectronics (Hangzhou)
 540237 Teltronic AG
 A89675 Motorola Mobility, a Lenovo Company
@@ -14911,7 +14911,7 @@ B80B9D Ropex Industrie-elektronik Gmbh
 34008A Ieee Registration Authority
 00D060 Panasonic Europe
 001987 Panasonic Mobile Communications
-BCC342 DVR_Panasonic
+BCC342 Panasonic_DVR_Projector
 705812 Panasonic AVC Networks Company
 CC7EE7 Panasonic AVC Networks Company
 84253F silex technology
@@ -14960,7 +14960,7 @@ F0C9D1 GD Midea Air-Conditioning Equipment
 D49CF4 Palo Alto Networks
 3C574F China Mobile Group Device
 F8C120 Xi'an Link-Science Technology
-903A72 Ruckus Wireless
+903A72 Ruckus_Wireless
 3CE824 Huawei_Technologies
 E8ABF3 Huawei_Technologies
 7006AC Eastcompeace Technology
@@ -14973,8 +14973,8 @@ DCE533 Ieee Registration Authority
 38E1AA zte
 18A28A Essel-T
 38DEAD Intel_Corporate
-74E182 Texas Instruments
-40BD32 Texas Instruments
+74E182 Texas_Instruments
+40BD32 Texas_Instruments
 3C1710 Sagemcom Broadband SAS
 C8FAE1 ARQ Digital
 044EAF LG Innotek
@@ -14992,7 +14992,7 @@ C42C4F Qingdao Hisense Mobile Communication Technology
 44FFBA zte
 0023A8 Marshall Electronics
 B481BF Meta-Networks
-0CAE7D Texas Instruments
+0CAE7D Texas_Instruments
 641CAE Samsung_Electronics
 4050B5 Shenzhen New Species Technology
 4CD0CB Huawei_Technologies
@@ -15184,7 +15184,7 @@ A8E552 Juwel Aquarium AG & KG
 00409D DigiBoard
 001472 China Broadband Wireless IP Standard group(ChinaBWIPS)
 D82477 Universal Electric
-4006A0 Texas Instruments
+4006A0 Texas_Instruments
 802994 Technicolor CH USA
 E0885D Technicolor CH USA
 4432C8 Technicolor CH USA
@@ -15231,8 +15231,8 @@ B4F1DA LG Electronics (Mobile Communications)
 0021FB LG Electronics (Mobile Communications)
 D013FD LG Electronics (Mobile Communications)
 A8B86E LG Electronics (Mobile Communications)
-342AF1 Texas Instruments
-70E56E Texas Instruments
+342AF1 Texas_Instruments
+70E56E Texas_Instruments
 F085C1 Shenzhen Rf-link Technology
 C8DEC9 Coriant
 380E4D Cisco_Systems
@@ -15261,7 +15261,7 @@ ACE2D3 Hewlett_Packard
 2CB21A Phicomm (Shanghai)
 CC81DA Phicomm (Shanghai)
 B80716 vivo Mobile Communication
-C8DF84 Texas Instruments
+C8DF84 Texas_Instruments
 5C0E8B Extreme Networks
 B4C799 Extreme Networks
 7467F7 Extreme Networks
@@ -15351,7 +15351,7 @@ D460E3 Sercomm
 E06066 Sercomm
 A41566 Weifang Goertek Electronics
 FCA621 Samsung_Electronics
-60D02C Ruckus Wireless
+60D02C Ruckus_Wireless
 8CF228 Mercury Communication Technologies
 0080B6 Mercury Systems  Trusted Mission Solutions
 C8778B Mercury Systems  Trusted Mission Solutions
@@ -15390,8 +15390,8 @@ A0D635 WBS Technology
 84B31B Kinexon GmbH
 144802 THE Yeolrim
 EC83D5 Gird Systems
-0C1C57 Texas Instruments
-0479B7 Texas Instruments
+0C1C57 Texas_Instruments
+0479B7 Texas_Instruments
 00235A Compal Information (kunshan)
 001B38 Compal Information (kunshan)
 00BB60 Intel_Corporate
@@ -15444,7 +15444,7 @@ A02833 Ieee Registration Authority
 0C7C28 Nokia
 FC61E9 Fiberhome Telecommunication Technologies
 D003DF Samsung_Electronics
-6CC374 Texas Instruments
+6CC374 Texas_Instruments
 40C81F Shenzhen Xinguodu Technology
 24FCE5 Samsung_Electronics
 4C1B86 Arcadyan
@@ -15534,10 +15534,10 @@ ECF0FE zte
 8850F6 Shenzhen Jingxun Software Telecommunication Technology
 D8A6FD Ghost Locomotion
 9458CB Nintendo
-90E202 Texas Instruments
-247D4D Texas Instruments
+90E202 Texas_Instruments
+247D4D Texas_Instruments
 4CE5AE Tianjin Beebox Intelligent Technology
-2875D8 Fujian Star-net Communication
+2875D8 Fujian_Star-net Communication
 703509 Cisco_Systems
 0CEC84 Shenzhen Tinno Mobile Technology
 9CDB07 Thum+Mahr GmbH
@@ -15603,7 +15603,7 @@ D06EDE Sagemcom Broadband SAS
 001A1E Aruba, a Hewlett_Packard Enterprise Company
 94B40F Aruba, a Hewlett_Packard Enterprise Company
 0029C2 Cisco_Systems
-187C0B Ruckus Wireless
+187C0B Ruckus_Wireless
 9C1C12 Aruba, a Hewlett_Packard Enterprise Company
 ACA31E Aruba, a Hewlett_Packard Enterprise Company
 C0D834 xvtec
@@ -15644,7 +15644,7 @@ D81EDD Guangdong_Oppo Mobile Telecommunications
 D43FCB Arris_Group
 C85261 Arris_Group
 C08ACD Guangzhou Shiyuan Electronic Technology Company Limited
-94BFC4 Ruckus Wireless
+94BFC4 Ruckus_Wireless
 0004DF Teracom Telematica S.A
 0836C9 Netgear
 38FACA Skyworth Digital Technology(Shenzhen)
@@ -15747,7 +15747,7 @@ E828C1 Eltex Enterprise
 BC97E1 Broadcom Limited
 ECAA25 Samsung_Electronics
 1819D6 Samsung_Electronics
-54EC2F Ruckus Wireless
+54EC2F Ruckus_Wireless
 20F478 Xiaomi Communications
 1C20DB Huawei_Technologies
 7460FA Huawei_Technologies
@@ -15764,7 +15764,7 @@ CC9070 Cisco_Systems
 9C99CD Voippartners
 000CFF MRO-TEK Realty Limited
 C8D12A Comtrend
-0035FF Texas Instruments
+0035FF Texas_Instruments
 E4FDA1 Huawei_Technologies
 683F1E Effect Photonics
 4459E3 Huawei_Technologies
@@ -16547,7 +16547,7 @@ D08CFF Upwis AB
 746A89 Rezolt
 68D1FD Shenzhen Trimax Technology
 241B13 Shanghai Nutshell Electronic
-B43564 Fujian Tian Cheng Electron Science & Technical Development
+B43564 Fujian_TianChengElectron Science & Technical Development
 54D1B0 Universal Laser Systems
 A497BB Hitachi Industrial Equipment Systems
 FC52CE Control iD
@@ -18005,7 +18005,7 @@ EC3091 Cisco_Systems
 0011FD Korg
 001203 ActivNetworks
 0011F3 NeoMedia Europe AG
-0011E7 Worldsat - Texas de France
+0011E7 Worldsat - Texas_de France
 0011EC Avix
 0011E0 U-media Communications
 0011DA Vivaas Technology
@@ -19398,7 +19398,7 @@ A0369F Intel_Corporate
 5891CF Intel_Corporate
 88532E Intel_Corporate
 0024D7 Intel_Corporate
-C40938 Fujian Star-net Communication
+C40938 Fujian_Star-net Communication
 00AA02 Intel
 5CD2E4 Intel_Corporate
 8896F2 Valeo Schalter und Sensoren GmbH
@@ -19687,38 +19687,38 @@ F8E61A Samsung_Electronics
 28AC67 Mach Power, Rappresentanze Internazionali s.r.l.
 B0B28F Sagemcom Broadband SAS
 DC1A01 Ecoliv Technology ( Shenzhen )
-D05FB8 Texas Instruments
-C4BE84 Texas Instruments
-78A504 Texas Instruments
-7C669D Texas Instruments
-D03972 Texas Instruments
-E0E5CF Texas Instruments
-7CEC79 Texas Instruments
-74D6EA Texas Instruments
-0017EB Texas Instruments
-883314 Texas Instruments
-84DD20 Texas Instruments
-1C4593 Texas Instruments
-5C6B32 Texas Instruments
-0017E4 Texas Instruments
-D03761 Texas Instruments
-0024BA Texas Instruments
-0022A5 Texas Instruments
-0021BA Texas Instruments
-001833 Texas Instruments
-D8952F Texas Instruments
-649C8E Texas Instruments
-F4FC32 Texas Instruments
-74DAEA Texas Instruments
-04A316 Texas Instruments
-98072D Texas Instruments
-001AB6 Texas Instruments
-C8A030 Texas Instruments
-34B1F7 Texas Instruments
-C4EDBA Texas Instruments
+D05FB8 Texas_Instruments
+C4BE84 Texas_Instruments
+78A504 Texas_Instruments
+7C669D Texas_Instruments
+D03972 Texas_Instruments
+E0E5CF Texas_Instruments
+7CEC79 Texas_Instruments
+74D6EA Texas_Instruments
+0017EB Texas_Instruments
+883314 Texas_Instruments
+84DD20 Texas_Instruments
+1C4593 Texas_Instruments
+5C6B32 Texas_Instruments
+0017E4 Texas_Instruments
+D03761 Texas_Instruments
+0024BA Texas_Instruments
+0022A5 Texas_Instruments
+0021BA Texas_Instruments
+001833 Texas_Instruments
+D8952F Texas_Instruments
+649C8E Texas_Instruments
+F4FC32 Texas_Instruments
+74DAEA Texas_Instruments
+04A316 Texas_Instruments
+98072D Texas_Instruments
+001AB6 Texas_Instruments
+C8A030 Texas_Instruments
+34B1F7 Texas_Instruments
+C4EDBA Texas_Instruments
 A40DBC Xiamen Intretech
 EC8EAE Nagravision SA
-606405 Texas Instruments
+606405 Texas_Instruments
 708BCD Asustek_Computer
 001A21 Brookhuis Applied Technologies BV
 1C330E PernixData
@@ -19784,7 +19784,7 @@ C8D3FF Hewlett_Packard
 008025 Telit Wireless Solutions GmbH
 0001E1 Kinpo Electronics
 006041 Yokogawa Digital Computer
-14A78B DVR_Panasonic
+14A78B Panasonic_DVR
 D0608C zte
 C8662C Beijing Haitai Fangyuan High Technology
 CC8CDA Shenzhen Wei Da Intelligent Technology Go.
@@ -20039,7 +20039,7 @@ B83765 Guangdong_Oppo Mobile Telecommunications
 FC539E Shanghai Wind Technologies
 9CAF6F Itel Mobile Limited
 9C061B Hangzhou H3C Technologies, Limited
-907065 Texas Instruments
+907065 Texas_Instruments
 B8FFB3 MitraStar Technology
 A08E78 Sagemcom Broadband SAS
 E0D55E Giga-byte Technology
@@ -20102,15 +20102,15 @@ EC42B4 ADC
 8C9F3B Qingdao Hisense Communications
 404229 Layer3TV
 B090D4 Shenzhen Hoin Internet Technology
-348F27 Ruckus Wireless
-001D2E Ruckus Wireless
-689234 Ruckus Wireless
-044FAA Ruckus Wireless
-0025C4 Ruckus Wireless
-38FF36 Ruckus Wireless
-2C5D93 Ruckus Wireless
-543D37 Ruckus Wireless
-C4108A Ruckus Wireless
+348F27 Ruckus_Wireless
+001D2E Ruckus_Wireless
+689234 Ruckus_Wireless
+044FAA Ruckus_Wireless
+0025C4 Ruckus_Wireless
+38FF36 Ruckus_Wireless
+2C5D93 Ruckus_Wireless
+543D37 Ruckus_Wireless
+C4108A Ruckus_Wireless
 D463C6 Motorola Mobility, a Lenovo Company
 00A050 Cypress Semiconductor
 A44CC8 Dell
@@ -20211,7 +20211,7 @@ B8D94D Sagemcom Broadband SAS
 80C755 Panasonic Appliances Company
 A0648F Askey Computer
 04848A 7inova Technology Limited
-E81DA8 Ruckus Wireless
+E81DA8 Ruckus_Wireless
 3CC079 Shenzhen One-Nine Intelligent Electronic Science and Technology
 746EE4 Asia Vital Components
 D490E0 Topcon Electronics GmbH & KG
@@ -20231,8 +20231,8 @@ F06E0B Microsoft
 701F53 Cisco_Systems
 1046B4 FormericaOE
 50C9A0 Skipper AS
-0CB2B7 Texas Instruments
-7C010A Texas Instruments
+0CB2B7 Texas_Instruments
+7C010A Texas_Instruments
 001530 Dell EMC
 08001B Dell EMC
 8CCF09 Dell EMC
@@ -20287,11 +20287,11 @@ F8E44E Mcot
 F00E1D Megafone Limited
 CCC079 Murata Manufacturing
 348B75 Lava International(h.k) Limited
-E89AFF Fujian Landi Commercial Equipment
+E89AFF Fujian_Landi Commercial Equipment
 0007A8 Haier Group Technologies
 E4434B Dell
 688975 nuoxc
-441E98 Ruckus Wireless
+441E98 Ruckus_Wireless
 08E689 Apple
 74E7C6 Arris_Group
 74F612 Arris_Group
@@ -20342,9 +20342,9 @@ F40E83 Arris_Group
 E8825B Arris_Group
 6402CB Arris_Group
 F0FCC8 Arris_Group
-FC6947 Texas Instruments
-E07DEA Texas Instruments
-F0B5D1 Texas Instruments
+FC6947 Texas_Instruments
+E07DEA Texas_Instruments
+F0B5D1 Texas_Instruments
 FCE66A Industrial Software
 7836CC Guangdong_Oppo Mobile Telecommunications
 3078C2 Innowireless / Qucell Networks
@@ -20690,7 +20690,7 @@ E0AF4F Deutsche Telekom AG
 F4068D devolo AG
 30D32D devolo AG
 A85AF3 Shanghai Siflower Communication Technology
-4C364E DVR_Panasonic
+4C364E Panasonic_DVR
 1496E5 Samsung_Electronics
 80CEB9 Samsung_Electronics
 CC2119 Samsung_Electronics
@@ -20731,8 +20731,8 @@ B0907E Cisco_Systems
 1889A0 Wuhan Funshion Online Technologies
 88F7BF vivo Mobile Communication
 000121 WatchGuard Technologies
-1862E4 Texas Instruments
-684749 Texas Instruments
+1862E4 Texas_Instruments
+684749 Texas_Instruments
 5CD20B Yytek
 7483C2 Ubiquiti Networks
 C0847D Ampak Technology
@@ -20776,7 +20776,7 @@ F063F9 Huawei_Technologies
 705DCC EFM Networks
 44070B Google
 302952 Hillstone Networks
-184B0D Ruckus Wireless
+184B0D Ruckus_Wireless
 D41243 Ampak Technology
 B87826 Nintendo
 F8501C Tianjin Geneuo Technology
@@ -20793,8 +20793,8 @@ E013B5 vivo Mobile Communication
 6C5C3D Ieee Registration Authority
 F4DD9E GoPro
 D4D919 GoPro
-D8A98B Texas Instruments
-B07E11 Texas Instruments
+D8A98B Texas_Instruments
+B07E11 Texas_Instruments
 6CC7EC Samsung_Electro-mechanics(thailand)
 546AD8 Elster Water Metering
 647BCE Samsung_Electronics
@@ -20918,7 +20918,7 @@ FC2FAA Nokia
 286C07 Xiaomi Electronics,co.
 2C557C Shenzhen Youhua Technology
 D88DC8 Atil Technology
-383C9C Fujian Newland Payment Technology
+383C9C Fujian_NewlandPayment Technology
 0014FB Technical Solutions
 4CC8A1 Cisco_Meraki
 0052C2 peiker acustic GmbH
@@ -20973,8 +20973,8 @@ B8A386 D-Link International
 00778D Cisco_Systems
 7057BF New H3C Technologies
 14AEDB VTech Telecommunications
-78DB2F Texas Instruments
-5893D8 Texas Instruments
+78DB2F Texas_Instruments
+5893D8 Texas_Instruments
 DC7137 zte
 DC680C Hewlett_Packard Enterprise
 FC3342 Juniper Networks
@@ -21048,7 +21048,7 @@ BCA13A SES-imagotag
 AC5D5C Fn-link Technology Limited
 3872C0 Comtrend
 A4AE11 Hon Hai Precision Ind.
-B452A9 Texas Instruments
+B452A9 Texas_Instruments
 E454E8 Dell
 ACB1EE Shenzhen Fenda Technology
 1871D5 Hazens Automotive Electronics(SZ)Co.
@@ -21338,7 +21338,7 @@ F02624 Wafa Technologies
 F8F464 Rawe Electonic GmbH
 F4672D ShenZhen Topstar Technology Company
 382B78 ECO Plugs Enterprise
-BCEB5F Fujian Beifeng Telecom Technology
+BCEB5F Fujian_BeifengTelecom Technology
 800B51 Chengdu XGimi Technology
 00FC8D Hitron Technologies.
 1CC586 Absolute Acoustics
@@ -22655,7 +22655,7 @@ DC3350 TechSAT GmbH
 001F7C Witelcom AS
 001F79 Lodam Electronics A/S
 001F74 Eigen Development
-001F6F Fujian Sunnada Communication
+001F6F Fujian_SunnadaCommunication
 001F63 JSC Goodwin-Europa
 001F6A PacketFlux Technologies
 001F69 Pingood Technology
@@ -23595,7 +23595,7 @@ DC3350 TechSAT GmbH
 000B07 Voxpath Networks
 000AF9 HiConnect
 000AFB Ambri Limited
-000B00 Fujian Start Computer Equipment
+000B00 Fujian_StartComputer Equipment
 0009B8 Entise Systems
 0009B7 Cisco_Systems
 0009B2 L&F
@@ -23768,7 +23768,7 @@ DC3350 TechSAT GmbH
 0005D4 FutureSmart Networks
 0006DF Aidonic
 0006E0 MAT
-0006E5 Fujian Newland Computer
+0006E5 Fujian_NewlandComputer
 0006DB Ichips
 0006D0 Elgar Electronics
 0006D7 Cisco_Systems
@@ -24388,7 +24388,7 @@ DC3350 TechSAT GmbH
 0020C9 Victron BV
 0020D1 Microcomputer Systems (M) SDN.
 002084 OCE Printing Systems
-0020C2 Texas Memory Systems
+0020C2 Texas_Memory Systems
 0020C8 Larscom Incorporated
 0020EC Techware Systems
 002083 Presticom Incorporated
@@ -25002,34 +25002,34 @@ AC6175 Huawei_Technologies
 AC482D Ralinwi Nanjing Electronic Technology
 A48269 Datrium
 441441 AudioControl
-EC24B8 Texas Instruments
-68C90B Texas Instruments
-F4B85E Texas Instruments
-5C313E Texas Instruments
-A0E6F8 Texas Instruments
-20C38F Texas Instruments
-D0FF50 Texas Instruments
+EC24B8 Texas_Instruments
+68C90B Texas_Instruments
+F4B85E Texas_Instruments
+5C313E Texas_Instruments
+A0E6F8 Texas_Instruments
+20C38F Texas_Instruments
+D0FF50 Texas_Instruments
 7472B0 Guangzhou Shiyuan Electronics
 44BFE3 Shenzhen Longtech Electronics
-689E19 Texas Instruments
-985945 Texas Instruments
-1CE2CC Texas Instruments
-44C15C Texas Instruments
-0017E9 Texas Instruments
-0017E7 Texas Instruments
-D00790 Texas Instruments
-04E451 Texas Instruments
-B0D5CC Texas Instruments
-5CF821 Texas Instruments
-FC0F4B Texas Instruments
+689E19 Texas_Instruments
+985945 Texas_Instruments
+1CE2CC Texas_Instruments
+44C15C Texas_Instruments
+0017E9 Texas_Instruments
+0017E7 Texas_Instruments
+D00790 Texas_Instruments
+04E451 Texas_Instruments
+B0D5CC Texas_Instruments
+5CF821 Texas_Instruments
+FC0F4B Texas_Instruments
 3C6FEA Panasonic India Pvt.
-A863F2 Texas Instruments
-948854 Texas Instruments
-001237 Texas Instruments
-BC6A29 Texas Instruments
-C0E422 Texas Instruments
-001830 Texas Instruments
-1CBA8C Texas Instruments
+A863F2 Texas_Instruments
+948854 Texas_Instruments
+001237 Texas_Instruments
+BC6A29 Texas_Instruments
+C0E422 Texas_Instruments
+001830 Texas_Instruments
+1CBA8C Texas_Instruments
 58FB84 Intel_Corporate
 E0E7BB Nureva
 7CA97D Objenious
@@ -25285,8 +25285,8 @@ F8F21E Intel_Corporate
 8C839D Shenzhen Xinyupeng Electronic Technology
 ECFAF4 SenRa Tech Pvt.
 70991C Shenzhen Honesty Electronics
-0081F9 Texas Instruments
-587A62 Texas Instruments
+0081F9 Texas_Instruments
+587A62 Texas_Instruments
 D06726 Hewlett_Packard Enterprise
 282373 Digita
 44CD0E Flextronics Manufacturing(zhuhai)co.
@@ -25346,7 +25346,7 @@ D8C8E9 Phicomm (Shanghai)
 6C49C1 o2ones
 68DB54 Phicomm (Shanghai)
 E48F34 Vodafone Italia
-2C6B7D Texas Instruments
+2C6B7D Texas_Instruments
 788038 Funai Electric
 000130 Extreme Networks
 CC6EA4 Samsung_Electronics
@@ -25429,7 +25429,7 @@ E019D8 BH Technologies
 94E1AC Hangzhou Hikvision Digital Technology
 24F128 Telstra
 FC9BC6 Sumavision Technologies
-001DFA Fujian Landi Commercial Equipment
+001DFA Fujian_LandiCommercial Equipment
 480BB2 Ieee Registration Authority
 BC2643 Elprotronic
 9814D2 Avonic
@@ -25689,7 +25689,7 @@ D4503F Guangdong_Oppo Mobile Telecommunications
 8425A4 Tariox Limited
 CC90E8 Shenzhen Youhua Technology
 605317 Sandstone Technologies
-50338B Texas Instruments
+50338B Texas_Instruments
 986C5C Jiangxi Gosun Guard Security
 F4FCB1 JJ
 543B30 duagon AG
@@ -25759,13 +25759,13 @@ ACED5C Intel_Corporate
 740ABC LightwaveRF Technology
 54BD79 Samsung_Electronics
 D86C63 Google
-743E2B Ruckus Wireless
-D838FC Ruckus Wireless
-0CF4D5 Ruckus Wireless
-AC6706 Ruckus Wireless
-94F665 Ruckus Wireless
-E0107F Ruckus Wireless
-001392 Ruckus Wireless
+743E2B Ruckus_Wireless
+D838FC Ruckus_Wireless
+0CF4D5 Ruckus_Wireless
+AC6706 Ruckus_Wireless
+94F665 Ruckus_Wireless
+E0107F Ruckus_Wireless
+001392 Ruckus_Wireless
 D837BE Shenzhen Gongjin Electronics
 DC44B6 Samsung_Electronics
 1007B6 Samsung_Electronics
@@ -25774,9 +25774,9 @@ F4939F Hon Hai Precision Ind.
 CC2F71 Intel_Corporate
 F82819 Liteon Technology
 F4B520 Biostar Microtech international
-F0F8F2 Texas Instruments
-341513 Texas Instruments
-64CFD9 Texas Instruments
+F0F8F2 Texas_Instruments
+341513 Texas_Instruments
+64CFD9 Texas_Instruments
 78D800 Ieee Registration Authority
 50E971 Jibo
 84A1D1 Sagemcom Broadband SAS
@@ -25868,7 +25868,7 @@ E0B7B1 Arris_Group
 98F7D7 Arris_Group
 D4B27A Arris_Group
 909D7D Arris_Group
-883F4A Texas Instruments
+883F4A Texas_Instruments
 B0935B Arris_Group
 20F19E Arris_Group
 8C5BF0 Arris_Group
@@ -25903,8 +25903,8 @@ C493D9 Samsung_Electronics
 7054B4 Vestel Elektronik San ve Tic. A..
 4C0FC7 Earda Technologies
 CC7B61 Nikkiso
-780473 Texas Instruments
-4C3FD3 Texas Instruments
+780473 Texas_Instruments
+4C3FD3 Texas_Instruments
 DCAF68 Weifang Goertek Electronics
 A019B2 Ieee Registration Authority
 88B66B easynetworks
@@ -25959,7 +25959,7 @@ A09351 Cisco_Systems
 883F99 Siemens AG
 F4F197 Emtake
 6CED51 Nexcontrol
-F8369B Texas Instruments
+F8369B Texas_Instruments
 0006EC Harris
 286336 Siemens AG
 347916 Huawei_Technologies
@@ -26042,8 +26042,8 @@ A89042 Beijing Wanwei Intelligent Technology
 E43C80 University of Oklahoma
 B033A6 Juniper Networks
 98ED5C Tesla Motors
-3881D7 Texas Instruments
-1804ED Texas Instruments
+3881D7 Texas_Instruments
+1804ED Texas_Instruments
 1081B4 Hunan Greatwall Galaxy Science and Technology
 F47DEF Samsung_Electronics
 7C8BB5 Samsung_Electronics
@@ -26081,7 +26081,7 @@ E82C6D SmartRG
 7C89C1 Palo Alto Networks
 948FCF Arris_Group
 748A0D Arris_Group
-5CCBCA Fujian Star-net Communication
+5CCBCA Fujian_Star-netCommunication
 28E98E Mitsubishi Electric
 3C286D Google
 F82F08 Molex CMS
@@ -26089,7 +26089,7 @@ A49426 Elgama-Elektronika
 302478 Sagemcom Broadband SAS
 203233 Shenzhen Bilian Electronicltd
 B447F5 Earda Technologies
-380B3C Texas Instruments
+380B3C Texas_Instruments
 5C415A Amazon.com
 BC3E07 Hitron Technologies.
 44FE3B Arcadyan
@@ -26098,7 +26098,7 @@ F46E95 Extreme Networks
 288088 Netgear
 9C69B4 Ieee Registration Authority
 E85BB7 Ample Systems
-C80873 Ruckus Wireless
+C80873 Ruckus_Wireless
 080030 Cern
 4CDD7D LHP Telematics
 002433 Alps Electric
@@ -26253,7 +26253,7 @@ E8A4C1 Deep Sea Electronics
 B0700D Nokia
 DC8C37 Cisco_Systems
 702E80 Diehl Connectivity Solutions
-1C3A60 Ruckus Wireless
+1C3A60 Ruckus_Wireless
 7C50DA Private
 BC9FE4 Aruba, a Hewlett_Packard Enterprise Company
 0050C6 Loop Telecommunication International
@@ -26295,7 +26295,7 @@ D8B6B7 Comtrend
 00EDB8 Kyocera
 00F620 Google
 B46077 Sichuan Changhong Electric
-E415F6 Texas Instruments
+E415F6 Texas_Instruments
 E419C1 Huawei_Technologies
 B86685 Sagemcom Broadband SAS
 549209 Huawei_Technologies
@@ -26416,7 +26416,7 @@ E4A8DF Laptop
 00EA4C Laptop
 1C697A Laptop
 C8D3FF Laptop
-24FBE3 Printer_Brother
+24FBE3 Printer_HP
 402A8F DS708_LAN
 94DDF8 Printer_Brother
 A8A092 PC_SingPC
@@ -26427,3 +26427,4 @@ F8CE07 Camera_Dahua_IP
 48210B PC_Asus
 34C93D Wifi_PC
 58D391 POS_VPBank
+C46E33 POS_VPBank
